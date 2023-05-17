@@ -54,11 +54,11 @@ export default function Education({ color }) {
                 <CardBody>
                   <Heading size='md'>B.Tech in Computer Science and Business Systems</Heading>
                   <Text py='2'>
-                    
+                    Currently in 3rd Year @Academy Of Technology
                   </Text>
                 </CardBody>
                 <CardFooter>
-                  <Button align='center' variant='solid' colorScheme='blue'>
+                  <Button position='relative' variant='solid' colorScheme='blue'>
                     View Marksheet
                   </Button>
                 </CardFooter>

@@ -1,10 +1,9 @@
 ## Site Name
 - Soumyajit's Portfolio
-
 ## Header
 - Hi, my name is Soumyajit. 
 - I'm a software engineer.
-- Currently a Student.
+- Currently studying B.Tech (3rd Year) in Computer Science & Business Systems at Academy of Technology.
 
 ## About
 Write your "About" section here.

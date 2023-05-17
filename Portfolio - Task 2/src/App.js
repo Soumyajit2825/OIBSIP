@@ -7,6 +7,7 @@ import Experience from './components/Experience';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import Education from './components/Education';
 
 function App() {
   // Available Colours:
@@ -20,6 +21,7 @@ function App() {
       <Nav color={color} />
       <Header color={color} />
       <About color={color} />
+      <Education color={color} />
       <Experience color={color} />
       <Projects color={color} />
       <Contact color={color} />

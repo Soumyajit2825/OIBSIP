@@ -1,19 +1,22 @@
 ## Site Name
-- Portable Portfolio
+- Soumyajit's Portfolio
 
 ## Header
-- Hi, my name is Eldora. 
+- Hi, my name is Soumyajit. 
 - I'm a software engineer.
-- Short Description Here.
+- Currently a Student.
 
 ## About
 Write your "About" section here.
 
+## Education
+
+
 ## Contact
-Write your "Contact" section here.
-- LinkedIn: https://linkedin.com/in/username
-- GitHub: https://github.com/username
-- Email: username@gmail.com
+Contact Me 
+- LinkedIn: https://linkedin.com/in/soumyajit-mondal2825
+- GitHub: https://github.com/Soumyajit2825
+- Email: mondalsoumya02@gmail.com
 
 ## Logo
-- EB
+- SM

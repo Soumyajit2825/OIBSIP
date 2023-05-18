@@ -19,7 +19,7 @@ export default function Education({ color }) {
   const profile = ProfileArray();
   return (
     <>
-      <Container maxW={"3xl"} id="about">
+      <Container maxW={"3xl"} id="education">
         <Stack
           as={Box}
           textAlign={"center"}
@@ -49,7 +49,6 @@ export default function Education({ color }) {
                 src={aot}
                 alt='Academy Of Technology'
               />
-
               <Stack>
                 <CardBody>
                   <Heading size='md'>B.Tech in Computer Science and Business Systems</Heading>
